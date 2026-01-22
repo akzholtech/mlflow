@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mlflow/mlruns/613358850175935884
+creation_time: 1768998284627
+experiment_id: '613358850175935884'
+last_update_time: 1768998284627
+lifecycle_stage: active
+name: feature_selection_union
